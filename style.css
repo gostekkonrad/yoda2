@@ -1,0 +1,113 @@
+body{
+	margin:0;
+	padding:0;
+	background-image: url('https://free4kwallpapers.com/uploads/wallpaper/star-wars-art-wallpaper-1920x1080-wallpaper.jpg');
+	color:purple;
+}
+header{
+	text-align:center;
+}
+#gora{
+	text-align:center;
+	border:dotted 2px;
+	height:600px;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+}
+table{
+	border: 2px  black;
+	width:70%;
+	margin-left:15%;
+	margin-right:auto;
+	height:700px;
+	text-align:center;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+tr{
+	border:solid 2px;
+}
+
+	
+
+td{
+	border:solid 2px;
+	border-bottom-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+}
+
+#dwa{
+	width:33%;
+}
+#trzy{
+	width:33%;
+}
+#cztery{
+	width:33%;
+}
+
+#t1{
+	text-align:center;
+	font-size:30px;
+}
+#t2{
+	text-align:center;
+	font-size:30px;
+}
+#t3{
+	text-align:center;
+	font-size:30px;
+}
+#t4{
+	text-align:center;
+	font-size:30px;
+}
+#linkacz{
+	text-align:center;
+}
+#ankieta{
+	text-align:center;
+}
+#haslo{
+	text-align:center;
+}
+form{
+	text-align:center;
+}
+object{
+	width:30%;
+}
+#lista{
+	text-align:left;
+}
+#dwa{
+	border-bottom-left-radius: 50px;
+}
+img{
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+}
+#cztery{
+	border-bottom-right-radius:50px;
+}
+#fotka{
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+}
+#jedynka{
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+}
+#footer{
+	text-align:center;
+	font-size:30px;
+}
+a{
+	font-size:30px;
+	text-align:center;
+	color:white;
+}
